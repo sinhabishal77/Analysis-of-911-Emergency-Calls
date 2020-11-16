@@ -6,17 +6,17 @@ To analyze what were the major reasons behind 911 Emergency Calls along with whi
 ## ABOUT THE DATASET
 The data contains the following fields:
 
-  -lat : String variable, Latitude
+  - lat : String variable, Latitude
 	
-  -lng: String variable, Longitude
+  - lng: String variable, Longitude
 	
-  -desc: String variable, Description of the Emergency Call
+  - desc: String variable, Description of the Emergency Call
 	
   - zip: String variable, Zipcode
 	
   - title: String variable, Title
 	
-  -timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+  - timeStamp: String variable, YYYY-MM-DD HH:MM:SS
 	
   - twp: String variable, Township
 	
