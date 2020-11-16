@@ -1,0 +1,14 @@
+For this capstone project I have analyzed some 911 calls data from Kaggle. 
+
+The data contains the following fields:
+	lat : String variable, Latitude
+	lng: String variable, Longitude
+	desc: String variable, Description of the Emergency Call
+	zip: String variable, Zipcode
+	title: String variable, Title
+	timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+	twp: String variable, Township
+	addr: String variable, Address
+	e: String variable, Dummy variable (always 1)
+
+Using this data I have analyzed what were the major reasons behind 911 Emergency Calls along with which hour, which day of the week and which month had the highest number of emergency calls.
